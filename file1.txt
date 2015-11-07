@@ -1,4 +1,0 @@
-removeing some changed done to the text file is what I am doing nowC
-C
-C
-addding few lines of text inside the file 1.txt
